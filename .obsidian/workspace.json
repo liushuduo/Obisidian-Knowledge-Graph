@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "90ca888d22717fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "使用正弦信号脉冲中间波形作时延估计存在的问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "50bfe676123b35bd",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/CRB for time delay estimation.md",
+                "file": "使用正弦信号脉冲中间波形作时延估计存在的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/CRB for time delay estimation.md",
+                "file": "使用正弦信号脉冲中间波形作时延估计存在的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/CRB for time delay estimation.md"
+                "file": "使用正弦信号脉冲中间波形作时延估计存在的问题.md"
               }
             }
           }
@@ -158,12 +171,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5d77d40c53c264c7",
+  "active": "90ca888d22717fb2",
   "lastOpenFiles": [
     "Bubble acoustics/Minneart frequency.md",
-    "Engineering/Impedance matching.md",
-    "Blogs/声波声压级的计算.md",
     "Blogs/CRB for time delay estimation.md",
+    "Blogs/声波声压级的计算.md",
+    "使用正弦信号脉冲中间波形作时延估计存在的问题.md",
+    "untitled.jpg",
+    "Engineering/Impedance matching.md",
     "Inforrmation science/Occupancy Grids.md",
     "未命名",
     "Engineering",
