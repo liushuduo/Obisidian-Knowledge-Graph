@@ -4,95 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a89a628500c6c4a",
+        "id": "af50f14459b155c6",
         "type": "tabs",
         "children": [
           {
-            "id": "c805fdccc9e44963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inforrmation science/Occupancy Grids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a010d1ef381e924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inforrmation science/Occupancy Grids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2c7765d0b3c5769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inforrmation science/Occupancy Grids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "307db34b3835550d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inforrmation science/Bayesian inference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec52a3034685d094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inforrmation science/Bayes filter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d77d40c53c264c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inforrmation science/Occupancy Grids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38f3afe6b0e588c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bubble acoustics/Minneart frequency.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b8cde29dcae78e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50bfe676123b35bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering/Impedance matching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,10 +158,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e2080237e4108fb0",
+  "active": "5d77d40c53c264c7",
   "lastOpenFiles": [
     "Bubble acoustics/Minneart frequency.md",
+    "Engineering/Impedance matching.md",
+    "Blogs/声波声压级的计算.md",
     "Blogs/CRB for time delay estimation.md",
+    "Inforrmation science/Occupancy Grids.md",
+    "未命名",
+    "Engineering",
     "Blogs",
     "Inforrmation science/Bayes filter.md",
     "bubble-resonance.png{width=50%}.md",
@@ -248,7 +180,6 @@
     "Inforrmation science/Dempster-Shafer evidence theory.md",
     "Inforrmation science/Bayesian inference.md",
     "Inforrmation science/Markov property.md",
-    "Inforrmation science/Occupancy Grids.md",
     "Inforrmation science/Kalman filter.md"
   ]
 }
